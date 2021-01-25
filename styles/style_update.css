@@ -1,0 +1,182 @@
+.block_search_actor_get {
+    margin-left: 5rem;
+    width: 224px;
+    border: 2px solid #ffffff;
+    position: relative;
+   margin-right: -5rem;
+
+}
+
+
+.search_input {
+    font-size: 1.7rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    outline: none;
+    border: none;
+}
+
+.edit_btn {
+    width: 30px;
+    height: 30px;
+    background-image: url(../images/search.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    outline: 1px solid #9370db;
+    background-color: #d2d1f8;
+    cursor: pointer;
+}
+
+
+
+.select_query {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.select_query {
+    margin-top: 5rem;
+    margin-right: -20rem;
+}
+
+.update_row {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    background-color: transparent;
+    padding: 2rem 3rem;
+    border-radius: 2.5rem;
+}
+
+.button {
+    display: inline-block;
+    padding: 17px 27px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    background-color: #6a3acd;
+    border: none;
+    -webkit-transition-duration: 0.4s;
+   transition-duration: 0.4s;
+   border-radius: 8px;
+   box-shadow: 0 10px #998;
+ }
+
+ .button:active {
+    background-color: #8842d5;
+    box-shadow: 0 6px #667;
+    transform: translateY(5px);
+  } 
+
+  [class*="director_change_"]{
+    font-size: 1.5rem;
+    padding: 0.3rem;
+    width: 202px;
+    }
+
+.director_change_name {
+    margin-left: 6rem;
+}
+
+.director_change_surname {
+    margin-left: 3.4rem;
+}
+
+.director_change_theater {
+    margin-left: 7.7rem;
+}
+
+[class*="team_change_"]{
+    font-size: 1.5rem;
+    padding: 0.3rem;
+    width: 202px;
+    }
+
+.team_change_playID {
+    margin-left: 6rem;
+}
+
+.team_change_actorID {
+    margin-left: 5.2rem;
+}
+
+.team_change_role {
+    margin-left: 8.3rem;
+}
+
+.team_change_mainteam {
+    margin-left: 2.9rem;
+}
+
+.team_change_gender {
+    margin-left: 2.7rem;
+}
+
+.body_update {
+    background: rgb(91,46,183);
+background: linear-gradient(169deg, rgba(91,46,183,1) 0%, rgba(219,207,243,1) 100%);
+}
+
+.select_query_perfomance {
+    margin-right: -33rem;
+}
+
+.update_perfomance {
+    margin-left: -15rem;
+}
+
+[class*="perfomance_change_"]{
+    font-size: 1.5rem;
+    padding: 0.3rem;
+    width: 202px;
+    }
+
+
+.perfomance_change_name {
+    margin-left: 11rem;
+}
+
+.perfomance_change_genre {
+    margin-left: 10.8rem;
+}
+
+.perfomance_change_author {
+    margin-left: 9.7rem;
+}
+
+.perfomance_change_dirID {
+    margin-left: 15rem;
+}
+
+.perfomance_change_premier {
+    margin-left: 2.4rem;
+}
+
+.perfomance_change_last {
+    margin-left: 6rem;
+}
+
+
+.advanced_block {
+    margin: 6rem auto;
+}
+
+
+.row_perfomance {
+    margin-left: -2rem;
+}
+
+.search_margin {
+    margin-left: auto;
+    margin-right: 6rem;
+}
+
+.margin_link {
+    margin-left: 8rem;
+}
